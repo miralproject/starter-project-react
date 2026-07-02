@@ -1,0 +1,1 @@
+APP_URL=https://miral-starter-project-react.netlify.app
